@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title> {{ animal['name'] }} </title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css')  }}">
+</head>
+<body>
+
+<div id='container'>
+
+<h1> The {{ animal['name'] }} </h1>
+
+<div id='flex'>
+
+<div id='text'>
+<p id='des'> The {{ animal['name'] }} is a {{ animal['class'] }} that lives throughout the African continent. It weighs on average {{ animal['weight'] }} pounds and has a conservation status of {{ animal['status'] }}.
+  An interesting fact about the {{ animal['name'] }} is that {{ animal['fact'] }} </p>
+
+<p>Read more: <a href="{{ animal['read_more'] }}">View Wikipedia page for {{ animal['name'] }}</a></p>
+
+<p><a href="{{ url_for('index') }}">Return to the homepage</a> to select a different animal.</p>
+</div>
+
+<div id='photo'>
+
+<img class="right" src="{{ url_for('static', filename='images/' + animal['img']) }}" alt="picture of African Animal">
+<p><a href="{{ animal['read_more'] }}">Image sourced from Wikipedia</a></p>
+
+</div>
+
+</div>
+
+</div>
+
+</body>
+</html>

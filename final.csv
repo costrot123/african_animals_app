@@ -1,0 +1,22 @@
+id,name,status,weight,class,img,read_more,fact
+1,Giraffe,vulnerable,"1,750 to 2,800",mammal,1.jpg,https://en.wikipedia.org/wiki/Giraffe,a giraffe's neck can be up to 8 feet tall.
+2,Hippopotamus,vulnerable,"5,000 to 8,000",mammal,2.jpg,https://en.wikipedia.org/wiki/Hippopotamus,the closest living relatives of the Hippopotamidae are cetaceans.
+3,Western Green Mamba,least concern,3 to 3.5 ,reptile,3.jpg,https://en.wikipedia.org/wiki/Western_green_mamba,a single bite from the green bamba is enough to a kill a human.
+4,Wildebeest,least concern,400 to 600,mammal,4.jpg,https://en.wikipedia.org/wiki/Wildebeest,wildebeests migrate close to 1600 km each year.
+5,Lemur,endangered,5 to 5.7,mammal,5.jpg,https://en.wikipedia.org/wiki/Lemur,fossil remains of extinct lemurs indicate that some weighed as much as 440 lb.
+6,African Elephant,vulnerable,"5,000 to 14,000",mammal,6.jpg,https://en.wikipedia.org/wiki/African_elephant,african elephants can live up to 70 years.
+7,Zebra,vulnerable,440 to 990,mammal,7.jpg,https://en.wikipedia.org/wiki/Zebra,"zebras are threatened by hunters, and habitat change from farming."
+8,White Rhinoceros,near threatened,"3,168 and 7,920",mammal,8.jpg,https://en.wikipedia.org/wiki/White_rhinoceros,"in Africa, 98.8 percent of white rhinos are in South Africa, Namibia, Zimbabwe, and Kenya."
+9,Spotted Hyena,least concern,110 to 190,mammal,9.jpg,https://en.wikipedia.org/wiki/Spotted_hyena,"spotted Hyenas hunt alone, in small groups or in large groups."
+10,Cheetah,vulnerable,77 to 143,mammal,10.jpg,https://en.wikipedia.org/wiki/Cheetah,cheetahs are capable of running over 60 mph.
+11,African Hare,least concern,3.3 to 6.6,mammal,11.jpg,https://en.wikipedia.org/wiki/African_savanna_hare,African Hares can run up to 43 mph.
+12,Baboon,least concern,20 to 70,mammal,12.jpg,https://en.wikipedia.org/wiki/Baboon,baboons are omnivorous and will eat just about anything.
+13,Chimpanzee,endangered,57 to 154,mammal,13.jpg,https://en.wikipedia.org/wiki/Chimpanzee,chimpanzees are currently being threatened by hunters for their bush meat.
+14,Ostrich,least concern,200 to 290,bird,14.jpg,https://en.wikipedia.org/wiki/Common_ostrich,an ostrich egg is over 20 times the weight of a chicken's egg.
+15,Warthog,least concern,110 to 330,mammal,15.jpg,https://en.wikipedia.org/wiki/Common_warthog,a warthog's tusks can grow up to 10 inches long.
+16,White-backed vulture,critically endangered,9.3 to 15.9,bird,16.jpg,https://en.wikipedia.org/wiki/White-backed_vulture,"along with other vultures, they clear up to 70% of Africa's Carbon."
+17,Porcupine,least concern,22 to 66,mammal,17.jpg,https://en.wikipedia.org/wiki/African_brush-tailed_porcupine,porcupines are native to more than 30 African countries.
+18,Wattled Crane,vulnerable,18,bird,18.jpg,https://en.wikipedia.org/wiki/Wattled_crane,the Wattled Crane has 1 mate for life.
+19,Tree Pangolin,endangered,3.4,mammal,19.jpg,https://en.wikipedia.org/wiki/Tree_pangolin,the tree pangolin can walk on all fours or on just its hind legs.
+20,African Lion,vulnerable,277 to 600,mammal,20.jpg,https://en.wikipedia.org/wiki/Lion,the lion population has decreased 43% in the last 21 years.
+21,Gerenuk,near threatened,63 to 128,mammal,21.jpg,https://en.wikipedia.org/wiki/Gerenuk,the Gerenuk's pointed mouth helps it extract leaves from thorny vegetation.
